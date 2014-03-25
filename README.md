@@ -1,4 +1,1 @@
-inception
-=========
-
-https://github.com/Bantik/inception
+See also http://tinyurl.com/tell-me-neo
